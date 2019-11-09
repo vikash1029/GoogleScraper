@@ -1,0 +1,45 @@
+.formWraper {
+  margin-top: 10%;
+  text-align: center;
+}
+#searchBar {
+    /*position: absolute;*/
+    /*top: 260px;*/
+    /*left: 250px;*/
+    width: 580px;
+    height: 45px;
+    border: 1px solid #cdcdcd;
+    border-radius: 20px;
+    /*padding: 0px;*/
+    padding-left: 25px;
+    line-height: 1.4;
+    font-size: 16px;
+}
+
+#searchButton {
+  position: absolute;
+  /*top: 260px;*/
+  /*left: 870px;*/
+  border: 1px solid #dcdcdc;
+  border-color: rgba(0, 0, 0, 0.1);
+  color: #444!important;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 8px;
+  border-radius: 20px;
+  width: 140px;
+  height: 45px;
+  font-size: 18px;
+}
+.error{
+    /*position: absolute;*/
+    /*top: 310px;*/
+    /*left: 250px;*/
+    color: red;
+    /*padding-left: 25px;*/
+    line-height: 1.4;
+    font-size: 16px;
+}
+#searchResult ul {
+  text-align: left;
+}
